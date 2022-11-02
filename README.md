@@ -1,4 +1,4 @@
-# <img src="https://cdn.betterttv.net/emote/61ef533c06fd6a9f5be209bf/2x" width="30"/> Hello, I'm Jacob
+# <img src="https://cdn.betterttv.net/emote/61ef533c06fd6a9f5be209bf/2x" width="30"/> Hello, I'm Jakub
 
 I'm a web developer with a passion for learning new technologies. I'm most passionate about the frontend because of its connection to the user interface. I am also a graphic designer and UI/UX enthusiast.
 
